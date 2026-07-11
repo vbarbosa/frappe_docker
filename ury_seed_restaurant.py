@@ -162,6 +162,8 @@ RESTAURANT = "Demo Food Pizzaria"
 MENU = "Cardapio Pizzaria"
 PROFILE = "Demo Food POS"
 BILLING_ROLE = "URY Manager"
+DEFAULT_CUSTOMER = "Consumidor Final"
+PRODUCTION = "Cozinha"
 
 WAREHOUSE = f"Stores - {ABBR}"
 COST_CENTER = f"Main - {ABBR}"
@@ -294,6 +296,20 @@ def run():
             t.name = tname
             t.insert(ignore_permissions=True)
 
+    # 7b. Cliente padrão (Consumidor Final) — pré-selecionado no POS
+    if not frappe.db.exists("Customer", DEFAULT_CUSTOMER):
+        c = frappe.new_doc("Customer")
+        c.customer_name = DEFAULT_CUSTOMER
+        c.customer_type = "Individual"
+        grp = frappe.db.get_value("Customer Group", {"is_group": 0}, "name")
+        ter = frappe.db.get_value("Territory", {"is_group": 0}, "name")
+        if grp:
+            c.customer_group = grp
+        if ter:
+            c.territory = ter
+        c.insert(ignore_permissions=True)
+        log.append("Cliente padrão")
+
     # 8. POS Profile
     if not frappe.db.exists("POS Profile", PROFILE):
         pf_fields = _f("POS Profile")
@@ -309,6 +325,9 @@ def run():
         p.write_off_cost_center = COST_CENTER
         p.write_off_limit = 1
         p.currency = frappe.db.get_value("Company", COMPANY, "default_currency")
+        # cliente padrão pré-selecionado no POS (evita pedir cliente a cada pedido)
+        if "customer" in pf_fields:
+            p.customer = DEFAULT_CUSTOMER
         if "restaurant" in pf_fields:
             p.restaurant = RESTAURANT
         if "branch" in pf_fields:
@@ -323,6 +342,23 @@ def run():
             p.append("role_allowed_for_billing", {"role": BILLING_ROLE})
         p.insert(ignore_permissions=True)
         log.append("POS Profile")
+
+    # 8b. URY Production Unit (necessária p/ gerar KOT que aparece no Mosaic)
+    if frappe.db.exists("DocType", "URY Production Unit") and not frappe.db.exists("URY Production Unit", PRODUCTION):
+        ig = "Products" if frappe.db.exists("Item Group", "Products") else frappe.db.get_value("Item Group", {"is_group": 0}, "name")
+        pu = frappe.new_doc("URY Production Unit")
+        pu.production = PRODUCTION
+        pu_fields = _f("URY Production Unit")
+        if "pos_profile" in pu_fields:
+            pu.pos_profile = PROFILE
+        if "branch" in pu_fields:
+            pu.branch = BRANCH
+        if "warehouse" in pu_fields:
+            pu.warehouse = WAREHOUSE
+        if "item_group" in _f("URY Production Item Groups"):
+            pu.append("item_groups", {"item_group": ig})
+        pu.insert(ignore_permissions=True)
+        log.append("Production Unit '%s'" % PRODUCTION)
 
     # 9. POS Opening Entry (submit)
     existing = frappe.get_all("POS Opening Entry",
