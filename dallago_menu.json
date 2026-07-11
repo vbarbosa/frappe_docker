@@ -1,0 +1,800 @@
+[
+ {
+  "code": "COMBO FAMÍLIA | 1 Pizza Grande + 1 Pizza Doce Broto + 1 Refri 2L",
+  "rate": 139.7,
+  "cat": "🍕🍾Combos Dallago´s🍕🍾",
+  "desc": "Escolha os sabores da sua pizza"
+ },
+ {
+  "code": "COMBO NOITE PERFEITA | 1 Pizza Grande + 1 Refri 2L",
+  "rate": 99.7,
+  "cat": "🍕🍾Combos Dallago´s🍕🍾",
+  "desc": "Escolha os sabores da sua pizza"
+ },
+ {
+  "code": "COMBO FESTA EM CASA | 3 Pizzas Grandes + 1 Pizza Doce Grande + 2 Refri 2L",
+  "rate": 359.7,
+  "cat": "🍕🍾Combos Dallago´s🍕🍾",
+  "desc": "Escolha os sabores da sua pizza"
+ },
+ {
+  "code": "Borda Nostra",
+  "rate": 38.7,
+  "cat": "Entradinhas",
+  "desc": "Experimente as delicadas e deliciosas Bordas da massa de pizza autoral Dallago´s, acompanhadas de dois molhos irresistíveis: Nosso saboroso molho pomodoro e creme de queijos."
+ },
+ {
+  "code": "Rotolinas",
+  "rate": 43.7,
+  "cat": "Entradinhas",
+  "desc": "Inspirada na culinária napolitana, a Rotolina é um rolinho de massa de longa maturação, recheado com ingredientes diversos."
+ },
+ {
+  "code": "Doce Grande 2 sabores",
+  "rate": 84.7,
+  "cat": "Pizzas Doces Grandes | 8 fatias",
+  "desc": "Escolha 2 sabores"
+ },
+ {
+  "code": "Doce Média 2 sabores",
+  "rate": 74.7,
+  "cat": "Pizzas Doces Médias | 6 fatias",
+  "desc": "Escolha 2 sabores"
+ },
+ {
+  "code": "Coca-Cola 2L",
+  "rate": 19.0,
+  "cat": "Bebidas",
+  "desc": "Refrigerantes"
+ },
+ {
+  "code": "Coca-Cola Zero 2L",
+  "rate": 19.0,
+  "cat": "Bebidas",
+  "desc": "Coca-Cola Zero 2L"
+ },
+ {
+  "code": "Guaraná Antarctica 2L",
+  "rate": 18.0,
+  "cat": "Bebidas",
+  "desc": "Guaraná Antarctica 2L"
+ },
+ {
+  "code": "Coca-Cola 600mL",
+  "rate": 10.5,
+  "cat": "Bebidas",
+  "desc": "Coca-Cola 600mL"
+ },
+ {
+  "code": "Coca-Cola Zero 600mL",
+  "rate": 10.5,
+  "cat": "Bebidas",
+  "desc": "Coca-Cola Zero 600mL"
+ },
+ {
+  "code": "Guaraná Antarctica 600mL",
+  "rate": 10.0,
+  "cat": "Bebidas",
+  "desc": "Guaraná Antarctica 600mL"
+ },
+ {
+  "code": "Coca-Cola Lata 350mL",
+  "rate": 8.0,
+  "cat": "Bebidas",
+  "desc": "Coca-Cola Lata 350mL"
+ },
+ {
+  "code": "Coca-Cola Zero Lata 350mL",
+  "rate": 8.0,
+  "cat": "Bebidas",
+  "desc": "Coca-Cola Zero Lata 350mL"
+ },
+ {
+  "code": "Guaraná Antarctica Lata 350mL",
+  "rate": 8.0,
+  "cat": "Bebidas",
+  "desc": "Guaraná Antarctica Lata 350mL"
+ },
+ {
+  "code": "Água sem gás 500mL",
+  "rate": 6.0,
+  "cat": "Bebidas",
+  "desc": "Água sem gás 500mL"
+ },
+ {
+  "code": "Água com gás 500mL",
+  "rate": 6.0,
+  "cat": "Bebidas",
+  "desc": "Água com gás 500mL"
+ },
+ {
+  "code": "Pizza Burrata (G)",
+  "rate": 128.7,
+  "cat": "Pizzas Grandes | 8 fatias",
+  "desc": "Massa autoral Dallago´s, molho pomodoro, leve camada de muçarela, rúculas frescas, tomate grape, burrata, pesto de manjericão, azeitonas pretas fatiadas e um fio de azeite."
+ },
+ {
+  "code": "Pizza Burrata & Parma (G)",
+  "rate": 128.7,
+  "cat": "Pizzas Grandes | 8 fatias",
+  "desc": "Massa autoral Dallago´s, molho pomodoro, leve camada de muçarela, presunto parma, burrata, tomate grape, pesto de manjericão, orégano e um fio de azeite."
+ },
+ {
+  "code": "Pizza Atum (G)",
+  "rate": 88.7,
+  "cat": "Pizzas Grandes | 8 fatias",
+  "desc": "Massa autoral Dallago´s, molho pomodoro, muçarela, suculentos pedaços de atum de verdade, tomates frescos em cubos e cebola roxa. Finalizada com azeitonas pretas fatiadas e orégano."
+ },
+ {
+  "code": "Pizza Bacon & Brócolis (G)",
+  "rate": 88.7,
+  "cat": "Pizzas Grandes | 8 fatias",
+  "desc": "Massa autoral Dallago´s, molho pomodoro, muçarela, bacon defumados em cubos, brócolis gratinados e um toque de gorgonzola. Finalizada com azeitonas pretas e uma pitada de orégano."
+ },
+ {
+  "code": "Pizza Barreado (G)",
+  "rate": 98.7,
+  "cat": "Pizzas Grandes | 8 fatias",
+  "desc": "Massa Autoral Dallago´s, nosso purê de banana da terra, muçarela, barreado e pimenta biquinho. Finalizado com cebolinha e salsinha."
+ },
+ {
+  "code": "Pizza Blumenau (G)",
+  "rate": 93.7,
+  "cat": "Pizzas Grandes | 8 fatias",
+  "desc": "Massa autoral Dallago´s, molho pomodoro, muçarela, suculentos pedaços de linguiça Blumenau, cebola roxa e abobrinhas gratinadas. Finalizada com uma pitada de orégano e salsinha"
+ },
+ {
+  "code": "Pizza Calabresa (G)",
+  "rate": 88.7,
+  "cat": "Pizzas Grandes | 8 fatias",
+  "desc": "Leve camada de molho pomodoro sobre a massa autoral Dallago´s, muçarela, fatias de linguiça calabresa e cebola roxa. Finalizada com um toque de orégano e azeitonas pretas fatiadas."
+ },
+ {
+  "code": "Pizza Camarão (G)",
+  "rate": 108.7,
+  "cat": "Pizzas Grandes | 8 fatias",
+  "desc": "Massa autoral Dallago´s, molho pomodoro, creme de leite, muçarela, camarões gratinados e tomate em cubos. Finalizada com parmesão ralado e orégano."
+ },
+ {
+  "code": "Pizza Carbonara (G)",
+  "rate": 93.7,
+  "cat": "Pizzas Grandes | 8 fatias",
+  "desc": "Massa autoral Dallago´s, leve camada de muçarela e parmesão, guanciale e cremino de gema de ovos pasteurizadas. Finalizada com raspas de parmesão."
+ },
+ {
+  "code": "Pizza Carne-seca (G)",
+  "rate": 93.7,
+  "cat": "Pizzas Grandes | 8 fatias",
+  "desc": "Massa autorial Dallago´s, molho pomodoro, muçarela, carne-seca, cebola roxa e pimenta biquinho. Finalizada com parmesão ralado."
+ },
+ {
+  "code": "Pizza Carrettiera (G)",
+  "rate": 106.7,
+  "cat": "Pizzas Grandes | 8 fatias",
+  "desc": "Massa autoral Dallago´s, molho pomodoro, muçarela de búfala meia cura, linguiça blumenau, brócolis, tomate grape e provolone. Finalizada com azeitonas pretas fatiadas e amêndoas laminadas."
+ },
+ {
+  "code": "Pizza Costela Santa Massa (G)",
+  "rate": 98.7,
+  "cat": "Pizzas Grandes | 8 fatias",
+  "desc": "Massa autoral Dallago´s, molho pomodoro, muçarela, costela desfiada e tomate em cubos. Finalizada com salsinha, pasta de alho Santa Massa, azeitonas pretas fatiadas e orégano."
+ },
+ {
+  "code": "Pizza Do Chef (G)",
+  "rate": 98.7,
+  "cat": "Pizzas Grandes | 8 fatias",
+  "desc": "Massa autoral Dallago´s, molho pomodoro, muçarela, cebola roxa, champignon e iscas de picanha . Finalizada com azeitonas pretas fatiadas e orégano."
+ },
+ {
+  "code": "Pizza Dolce Diavola (G)",
+  "rate": 88.7,
+  "cat": "Pizzas Grandes | 8 fatias",
+  "desc": "Massa autoral Dallago´s, molho pomodoro, muçarela e pepperoni. Finalizada com creme balsâmico e orégano."
+ },
+ {
+  "code": "Pizza Frango Cremoso (G)",
+  "rate": 88.7,
+  "cat": "Pizzas Grandes | 8 fatias",
+  "desc": "Massa autoral Dallago´s, molho pomodoro, muçarela, frango desviado levemente temperado, tomate em cubos e gotas do legítimo Catupiry®. Finalizada com azeitonas pretas fatiadas e orégano."
+ },
+ {
+  "code": "Pizza Lombo Barbecue (G)",
+  "rate": 93.7,
+  "cat": "Pizzas Grandes | 8 fatias",
+  "desc": "Massa autoral Dallago´s, molho pomorodo, muçarela, lombo suíno desfiado e molho barbecue. Finalizada com azeitonas pretas fatiadas e orégano."
+ },
+ {
+  "code": "Pizza Lombo Canadense (G)",
+  "rate": 88.7,
+  "cat": "Pizzas Grandes | 8 fatias",
+  "desc": "Massa autoral Dallago´s, molho pomorodo, muçarela e lombo cabadense defumado e gotas do legítimo Catupiry®. Finalizada com azeitonas pretas fatiadas e orégano."
+ },
+ {
+  "code": "Pizza Margherita al Filetto (G)",
+  "rate": 98.7,
+  "cat": "Pizzas Grandes | 8 fatias",
+  "desc": "Massa autoral Dallago´s, azeite extravirgem, muçarela de búfala e tomate grape. Finalizado com manjericão, orégano e um fio de azeite."
+ },
+ {
+  "code": "Pizza Margherita Verace (G)",
+  "rate": 98.7,
+  "cat": "Pizzas Grandes | 8 fatias",
+  "desc": "Massa autoral Dallago´s, molho pomorodo, parmesão, muçarela de búfala meia cura e manjericão. Finalizada com folhas frescas de manjericão, pesto de manjericão, orégano e um fio de azeite."
+ },
+ {
+  "code": "Pizza Marguerita Paulistana (G)",
+  "rate": 88.7,
+  "cat": "Pizzas Grandes | 8 fatias",
+  "desc": "Massa autoral Dallago´s, molho pomorodo, parmesão, muçarela e tomates frescos e fatiados. Finalizada com folhas frescas de manjericão e um fio de azeite."
+ },
+ {
+  "code": "Pizza Melanzana (G)",
+  "rate": 88.7,
+  "cat": "Pizzas Grandes | 8 fatias",
+  "desc": "Massa autoral Dallago´s, generosa camada de molho pomodoro, parmesão, muçarela, berinjela gratinada e tomate grape. Finalizada folhas frescas de manjericão e orégano."
+ },
+ {
+  "code": "Pizza Palmito (G)",
+  "rate": 88.7,
+  "cat": "Pizzas Grandes | 8 fatias",
+  "desc": "Massa autoral Dallago´s, molho pomorodo, muçarela, palmito, alho-poró e tomate em cubos. Finalizada com azeitonas pretas fatiadas, folhas frescas de manjericão e orégano."
+ },
+ {
+  "code": "Pizza Pantaneira (G)",
+  "rate": 98.7,
+  "cat": "Pizzas Grandes | 8 fatias",
+  "desc": "Massa autoral Dallago´s, molho pomorodo, muçarela, banana-da-terra, carne seca e muçarela de búfala. Finalizada com pasta de alho santa massa, azeitonas pretas fatiadas e orégano."
+ },
+ {
+  "code": "Pizza Parma (G)",
+  "rate": 128.7,
+  "cat": "Pizzas Grandes | 8 fatias",
+  "desc": "Massa autoral Dallago´s, molho pomorodo e muçarela. Finalizada com rúcula fresca, tomate grape, presunto parma, muçarela de búfala fresca, azeitonas pretas fatiadas, orégano e um fio de azeite."
+ },
+ {
+  "code": "Pizza Perugia (G)",
+  "rate": 98.7,
+  "cat": "Pizzas Grandes | 8 fatias",
+  "desc": "Massa autoral Dallago´s, molho pomorodo, alho-poró, muçarela, pera e gorgonzola. Finalizada com nozes e um fio de mel."
+ },
+ {
+  "code": "Pizza Picanha Cremosa (G)",
+  "rate": 98.7,
+  "cat": "Pizzas Grandes | 8 fatias",
+  "desc": "Massa autoral Dallago´s, molho pomorodo, muçarela, picanha gratinada e gorgonzola. Finalizada com azeitonas pretas fatiadas e orégano."
+ },
+ {
+  "code": "Pizza Portuguesa (G)",
+  "rate": 88.7,
+  "cat": "Pizzas Grandes | 8 fatias",
+  "desc": "Massa autoral Dallago´s, molho pomodoro, muçarela, presunto cozido, tomate em cubos, ovos cozidos, ervilha e cebola roxa. Finalizada com azeitonas pretas fatiadas e orégano."
+ },
+ {
+  "code": "Pizza Quatro Queijos (G)",
+  "rate": 88.7,
+  "cat": "Pizzas Grandes | 8 fatias",
+  "desc": "Massa autoral Dallago´s, leve camada de molho pomorodo, muçarela, parmesão, provolone e gorgonzola. Finalizada com azeitonas pretas fatiadas e orégano."
+ },
+ {
+  "code": "Pizza Tomate Seco & Rúcula (G)",
+  "rate": 93.7,
+  "cat": "Pizzas Grandes | 8 fatias",
+  "desc": "Massa autoral Dallago´s, molho pomorodo, muçarela. Finalizada com rúcula fresca, tomate seco, muçarela de búfala fresca, azeitonas pretas fatiadas, orégano e um fio de azeite."
+ },
+ {
+  "code": "Pizza Zucchine (G)",
+  "rate": 88.7,
+  "cat": "Pizzas Grandes | 8 fatias",
+  "desc": ""
+ },
+ {
+  "code": "Pizza Burrata (M)",
+  "rate": 118.7,
+  "cat": "Pizzas Médias | 6 fatias",
+  "desc": "Massa autoral Dallago´s, molho pomodoro, leve camada de muçarela, rúculas frescas, tomate grape, burrata, pesto de manjericão, azeitonas pretas fatiadas e um fio de azeite."
+ },
+ {
+  "code": "Pizza Burrata & Parma (M)",
+  "rate": 118.7,
+  "cat": "Pizzas Médias | 6 fatias",
+  "desc": "Massa autoral Dallago´s, molho pomodoro, leve camada de muçarela, presunto parma, burrata, tomate grape, pesto de manjericão, orégano e um fio de azeite."
+ },
+ {
+  "code": "Pizza Atum (M)",
+  "rate": 78.7,
+  "cat": "Pizzas Médias | 6 fatias",
+  "desc": "Massa autoral Dallago´s, molho pomodoro, muçarela, suculentos pedaços de atum de verdade, tomates frescos em cubos e cebola roxa. Finalizada com azeitonas pretas fatiadas e orégano."
+ },
+ {
+  "code": "Pizza Bacon & Brócolis (M)",
+  "rate": 78.7,
+  "cat": "Pizzas Médias | 6 fatias",
+  "desc": "Massa autoral Dallago´s, molho pomodoro, muçarela, bacon defumados em cubos, brócolis gratinados e um toque de gorgonzola. Finalizada com azeitonas pretas e uma pitada de orégano."
+ },
+ {
+  "code": "Pizza Barreado (M)",
+  "rate": 88.7,
+  "cat": "Pizzas Médias | 6 fatias",
+  "desc": "Massa Autoral Dallago´s, nosso purê de banana da terra, muçarela, barreado e pimenta biquinho. Finalizado com cebolinha e salsinha."
+ },
+ {
+  "code": "Pizza Blumenau (M)",
+  "rate": 83.7,
+  "cat": "Pizzas Médias | 6 fatias",
+  "desc": "Massa autoral Dallago´s, molho pomodoro, muçarela, suculentos pedaços de linguiça Blumenau, cebola roxa e abobrinhas gratinadas. Finalizada com uma pitada de orégano e salsinha"
+ },
+ {
+  "code": "Pizza Calabresa (M)",
+  "rate": 78.7,
+  "cat": "Pizzas Médias | 6 fatias",
+  "desc": "Leve camada de molho pomodoro sobre a massa autoral Dallago´s, muçarela, fatias de linguiça calabresa e cebola roxa. Finalizada com um toque de orégano e azeitonas pretas fatiadas."
+ },
+ {
+  "code": "Pizza Camarão (M)",
+  "rate": 98.7,
+  "cat": "Pizzas Médias | 6 fatias",
+  "desc": "Massa autoral Dallago´s, molho pomodoro, creme de leite, muçarela, camarões gratinados e tomate em cubos. Finalizada com parmesão ralado e orégano."
+ },
+ {
+  "code": "Pizza Carbonara (M)",
+  "rate": 83.7,
+  "cat": "Pizzas Médias | 6 fatias",
+  "desc": "Massa autoral Dallago´s, leve camada de muçarela e parmesão, guanciale e cremino de gema de ovos pasteurizadas. Finalizada com raspas de parmesão."
+ },
+ {
+  "code": "Pizza Carne-seca (M)",
+  "rate": 83.7,
+  "cat": "Pizzas Médias | 6 fatias",
+  "desc": "Massa autorial Dallago´s, molho pomodoro, muçarela, carne-seca, cebola roxa e pimenta biquinho. Finalizada com parmesão ralado."
+ },
+ {
+  "code": "Pizza Carrettiera (M)",
+  "rate": 96.7,
+  "cat": "Pizzas Médias | 6 fatias",
+  "desc": "Massa autoral Dallago´s, molho pomodoro, muçarela de búfala meia cura, linguiça blumenau, brócolis, tomate grape e provolone. Finalizada com azeitonas pretas fatiadas e amêndoas laminadas."
+ },
+ {
+  "code": "Pizza Costela Santa Massa (M)",
+  "rate": 88.7,
+  "cat": "Pizzas Médias | 6 fatias",
+  "desc": "Massa autoral Dallago´s, molho pomodoro, muçarela, costela desfiada e tomate em cubos. Finalizada com salsinha, pasta de alho Santa Massa, azeitonas pretas fatiadas e orégano."
+ },
+ {
+  "code": "Pizza Do Chef (M)",
+  "rate": 88.7,
+  "cat": "Pizzas Médias | 6 fatias",
+  "desc": "Massa autoral Dallago´s, molho pomodoro, muçarela, cebola roxa, champignon e iscas de picanha . Finalizada com azeitonas pretas fatiadas e orégano."
+ },
+ {
+  "code": "Pizza Dolce Diavola (M)",
+  "rate": 78.7,
+  "cat": "Pizzas Médias | 6 fatias",
+  "desc": "Massa autoral Dallago´s, molho pomodoro, muçarela e pepperoni. Finalizada com creme balsâmico e orégano."
+ },
+ {
+  "code": "Pizza Frango Cremoso (M)",
+  "rate": 78.7,
+  "cat": "Pizzas Médias | 6 fatias",
+  "desc": "Massa autoral Dallago´s, molho pomodoro, muçarela, frango desviado levemente temperado, tomate em cubos e gotas do legítimo Catupiry®. Finalizada com azeitonas pretas fatiadas e orégano."
+ },
+ {
+  "code": "Pizza Lombo Barbecue (M)",
+  "rate": 83.7,
+  "cat": "Pizzas Médias | 6 fatias",
+  "desc": "Massa autoral Dallago´s, molho pomorodo, muçarela, lombo suíno desfiado e molho barbecue. Finalizada com azeitonas pretas fatiadas e orégano."
+ },
+ {
+  "code": "Pizza Lombo Canadense (M)",
+  "rate": 78.7,
+  "cat": "Pizzas Médias | 6 fatias",
+  "desc": "Massa autoral Dallago´s, molho pomorodo, muçarela e lombo cabadense defumado e gotas do legítimo Catupiry®. Finalizada com azeitonas pretas fatiadas e orégano."
+ },
+ {
+  "code": "Pizza Margherita Verace (M)",
+  "rate": 88.7,
+  "cat": "Pizzas Médias | 6 fatias",
+  "desc": "Massa autoral Dallago´s, molho pomorodo, parmesão, muçarela de búfala meia cura e manjericão. Finalizada com folhas frescas de manjericão, pesto de manjericão, orégano e um fio de azeite."
+ },
+ {
+  "code": "Pizza Margherita al Filetto (M)",
+  "rate": 88.7,
+  "cat": "Pizzas Médias | 6 fatias",
+  "desc": "Massa autoral Dallago´s, azeite extravirgem, muçarela de búfala e tomate grape. Finalizado com manjericão, orégano e um fio de azeite."
+ },
+ {
+  "code": "Pizza Marguerita Paulistana (M)",
+  "rate": 78.7,
+  "cat": "Pizzas Médias | 6 fatias",
+  "desc": "Massa autoral Dallago´s, molho pomorodo, parmesão, muçarela e tomates frescos e fatiados. Finalizada com folhas frescas de manjericão e um fio de azeite."
+ },
+ {
+  "code": "Pizza Melanzana (M)",
+  "rate": 78.7,
+  "cat": "Pizzas Médias | 6 fatias",
+  "desc": "Massa autoral Dallago´s, generosa camada de molho pomodoro, parmesão, muçarela, berinjela gratinada e tomate grape. Finalizada folhas frescas de manjericão e orégano."
+ },
+ {
+  "code": "Pizza Palmito (M)",
+  "rate": 78.7,
+  "cat": "Pizzas Médias | 6 fatias",
+  "desc": "Massa autoral Dallago´s, molho pomorodo, muçarela, palmito, alho-poró e tomate em cubos. Finalizada com azeitonas pretas fatiadas, folhas frescas de manjericão e orégano."
+ },
+ {
+  "code": "Pizza Pantaneira (M)",
+  "rate": 88.7,
+  "cat": "Pizzas Médias | 6 fatias",
+  "desc": "Massa autoral Dallago´s, molho pomorodo, muçarela, banana-da-terra, carne seca e muçarela de búfala. Finalizada com pasta de alho santa massa, azeitonas pretas fatiadas e orégano."
+ },
+ {
+  "code": "Pizza Parma (M)",
+  "rate": 118.7,
+  "cat": "Pizzas Médias | 6 fatias",
+  "desc": "Massa autoral Dallago´s, molho pomorodo e muçarela. Finalizada com rúcula fresca, tomate grape, presunto parma, muçarela de búfala fresca, azeitonas pretas fatiadas, orégano e um fio de azeite."
+ },
+ {
+  "code": "Pizza Perugia (M)",
+  "rate": 88.7,
+  "cat": "Pizzas Médias | 6 fatias",
+  "desc": "Massa autoral Dallago´s, molho pomorodo, alho-poró, muçarela, pera e gorgonzola. Finalizada com nozes e um fio de mel."
+ },
+ {
+  "code": "Pizza Picanha Cremosa (M)",
+  "rate": 88.7,
+  "cat": "Pizzas Médias | 6 fatias",
+  "desc": "Massa autoral Dallago´s, molho pomorodo, muçarela, picanha gratinada e gorgonzola. Finalizada com azeitonas pretas fatiadas e orégano."
+ },
+ {
+  "code": "Pizza Portuguesa (M)",
+  "rate": 78.7,
+  "cat": "Pizzas Médias | 6 fatias",
+  "desc": "Massa autoral Dallago´s, molho pomodoro, muçarela, presunto cozido, tomate em cubos, ovos cozidos, ervilha e cebola roxa. Finalizada com azeitonas pretas fatiadas e orégano."
+ },
+ {
+  "code": "Pizza Quatro Queijos (M)",
+  "rate": 78.7,
+  "cat": "Pizzas Médias | 6 fatias",
+  "desc": "Massa autoral Dallago´s, leve camada de molho pomorodo, muçarela, parmesão, provolone e gorgonzola. Finalizada com azeitonas pretas fatiadas e orégano."
+ },
+ {
+  "code": "Pizza Tomate Seco & Rúcula (M)",
+  "rate": 83.7,
+  "cat": "Pizzas Médias | 6 fatias",
+  "desc": "Massa autoral Dallago´s, molho pomorodo, muçarela. Finalizada com rúcula fresca, tomate seco, muçarela de búfala fresca, azeitonas pretas fatiadas, orégano e um fio de azeite."
+ },
+ {
+  "code": "Pizza Zucchine (M)",
+  "rate": 78.7,
+  "cat": "Pizzas Médias | 6 fatias",
+  "desc": ""
+ },
+ {
+  "code": "Pizza Burrata (Broto)",
+  "rate": 92.7,
+  "cat": "Pizzas Broto | 4 fatias",
+  "desc": "Massa autoral Dallago´s, molho pomodoro, leve camada de muçarela, rúculas frescas, tomate grape, burrata, pesto de manjericão, azeitonas pretas fatiadas e um fio de azeite."
+ },
+ {
+  "code": "Pizza Burrata & Parma (Broto)",
+  "rate": 92.7,
+  "cat": "Pizzas Broto | 4 fatias",
+  "desc": "Massa autoral Dallago´s, molho pomodoro, leve camada de muçarela, presunto parma, burrata, tomate grape, pesto de manjericão, orégano e um fio de azeite."
+ },
+ {
+  "code": "Pizza Atum (Broto)",
+  "rate": 52.7,
+  "cat": "Pizzas Broto | 4 fatias",
+  "desc": "Massa autoral Dallago´s, molho pomodoro, muçarela, suculentos pedaços de atum de verdade, tomates frescos em cubos e cebola roxa. Finalizada com azeitonas pretas fatiadas e orégano."
+ },
+ {
+  "code": "Pizza Bacon & Brócolis (Broto)",
+  "rate": 52.7,
+  "cat": "Pizzas Broto | 4 fatias",
+  "desc": "Massa autoral Dallago´s, molho pomodoro, muçarela, bacon defumados em cubos, brócolis gratinados e um toque de gorgonzola. Finalizada com azeitonas pretas e uma pitada de orégano."
+ },
+ {
+  "code": "Pizza Barreado (Broto)",
+  "rate": 61.7,
+  "cat": "Pizzas Broto | 4 fatias",
+  "desc": "Massa Autoral Dallago´s, nosso purê de banana da terra, muçarela, barreado e pimenta biquinho. Finalizado com cebolinha e salsinha."
+ },
+ {
+  "code": "Pizza Blumenau (Broto)",
+  "rate": 56.7,
+  "cat": "Pizzas Broto | 4 fatias",
+  "desc": "Massa autoral Dallago´s, molho pomodoro, muçarela, suculentos pedaços de linguiça Blumenau, cebola roxa e abobrinhas gratinadas. Finalizada com uma pitada de orégano e salsinha"
+ },
+ {
+  "code": "Pizza Calabresa (Broto)",
+  "rate": 52.7,
+  "cat": "Pizzas Broto | 4 fatias",
+  "desc": "Leve camada de molho pomodoro sobre a massa autoral Dallago´s, muçarela, fatias de linguiça calabresa e cebola roxa. Finalizada com um toque de orégano e azeitonas pretas fatiadas."
+ },
+ {
+  "code": "Pizza Camarão (Broto)",
+  "rate": 67.7,
+  "cat": "Pizzas Broto | 4 fatias",
+  "desc": "Massa autoral Dallago´s, molho pomodoro, creme de leite, muçarela, camarões gratinados e tomate em cubos. Finalizada com parmesão ralado e orégano."
+ },
+ {
+  "code": "Pizza Carbonara (Broto)",
+  "rate": 61.7,
+  "cat": "Pizzas Broto | 4 fatias",
+  "desc": "Massa autoral Dallago´s, leve camada de muçarela e parmesão, guanciale e cremino de gema de ovos pasteurizadas. Finalizada com raspas de parmesão."
+ },
+ {
+  "code": "Pizza Carne-seca (Broto)",
+  "rate": 56.7,
+  "cat": "Pizzas Broto | 4 fatias",
+  "desc": "Massa autorial Dallago´s, molho pomodoro, muçarela, carne-seca, cebola roxa e pimenta biquinho. Finalizada com parmesão ralado."
+ },
+ {
+  "code": "Pizza Carrettiera (Broto)",
+  "rate": 61.7,
+  "cat": "Pizzas Broto | 4 fatias",
+  "desc": "Massa autoral Dallago´s, molho pomodoro, muçarela de búfala meia cura, linguiça blumenau, brócolis, tomate grape e provolone. Finalizada com azeitonas pretas fatiadas e amêndoas laminadas."
+ },
+ {
+  "code": "Pizza Costela Santa Massa (Broto)",
+  "rate": 61.7,
+  "cat": "Pizzas Broto | 4 fatias",
+  "desc": "Massa autoral Dallago´s, molho pomodoro, muçarela, costela desfiada e tomate em cubos. Finalizada com salsinha, pasta de alho Santa Massa, azeitonas pretas fatiadas e orégano."
+ },
+ {
+  "code": "Pizza Do Chef (Broto)",
+  "rate": 61.7,
+  "cat": "Pizzas Broto | 4 fatias",
+  "desc": "Massa autoral Dallago´s, molho pomodoro, muçarela, cebola roxa, champignon e iscas de picanha . Finalizada com azeitonas pretas fatiadas e orégano."
+ },
+ {
+  "code": "Pizza Dolce Diavola (Broto)",
+  "rate": 52.7,
+  "cat": "Pizzas Broto | 4 fatias",
+  "desc": "Massa autoral Dallago´s, molho pomodoro, muçarela e pepperoni. Finalizada com creme balsâmico e orégano."
+ },
+ {
+  "code": "Pizza Frango Cremoso (Broto)",
+  "rate": 52.7,
+  "cat": "Pizzas Broto | 4 fatias",
+  "desc": "Massa autoral Dallago´s, molho pomodoro, muçarela, frango desviado levemente temperado, tomate em cubos e gotas do legítimo Catupiry®. Finalizada com azeitonas pretas fatiadas e orégano."
+ },
+ {
+  "code": "Pizza Lombo Barbecue (Broto)",
+  "rate": 61.7,
+  "cat": "Pizzas Broto | 4 fatias",
+  "desc": "Massa autoral Dallago´s, molho pomorodo, muçarela, lombo suíno desfiado e molho barbecue. Finalizada com azeitonas pretas fatiadas e orégano."
+ },
+ {
+  "code": "Pizza Lombo Canadense (Broto)",
+  "rate": 52.7,
+  "cat": "Pizzas Broto | 4 fatias",
+  "desc": "Massa autoral Dallago´s, molho pomorodo, muçarela e lombo cabadense defumado e gotas do legítimo Catupiry®. Finalizada com azeitonas pretas fatiadas e orégano."
+ },
+ {
+  "code": "Pizza Margherita al Filetto (Broto)",
+  "rate": 56.7,
+  "cat": "Pizzas Broto | 4 fatias",
+  "desc": "Massa autoral Dallago´s, azeite extravirgem, muçarela de búfala e tomate grape. Finalizado com manjericão, orégano e um fio de azeite."
+ },
+ {
+  "code": "Pizza Margherita Verace (Broto)",
+  "rate": 56.7,
+  "cat": "Pizzas Broto | 4 fatias",
+  "desc": "Massa autoral Dallago´s, molho pomorodo, parmesão, muçarela de búfala meia cura e manjericão. Finalizada com folhas frescas de manjericão, pesto de manjericão, orégano e um fio de azeite."
+ },
+ {
+  "code": "Pizza Marguerita Paulistana (Broto)",
+  "rate": 52.7,
+  "cat": "Pizzas Broto | 4 fatias",
+  "desc": "Massa autoral Dallago´s, molho pomorodo, parmesão, muçarela e tomates frescos e fatiados. Finalizada com folhas frescas de manjericão e um fio de azeite."
+ },
+ {
+  "code": "Pizza Melanzana (Broto)",
+  "rate": 52.7,
+  "cat": "Pizzas Broto | 4 fatias",
+  "desc": "Massa autoral Dallago´s, generosa camada de molho pomodoro, parmesão, muçarela, berinjela gratinada e tomate grape. Finalizada folhas frescas de manjericão e orégano."
+ },
+ {
+  "code": "Pizza Palmito (Broto)",
+  "rate": 52.7,
+  "cat": "Pizzas Broto | 4 fatias",
+  "desc": "Massa autoral Dallago´s, molho pomorodo, muçarela, palmito, alho-poró e tomate em cubos. Finalizada com azeitonas pretas fatiadas, folhas frescas de manjericão e orégano."
+ },
+ {
+  "code": "Pizza Pantaneira (Broto)",
+  "rate": 61.7,
+  "cat": "Pizzas Broto | 4 fatias",
+  "desc": "Massa autoral Dallago´s, molho pomorodo, muçarela, banana-da-terra, carne seca e muçarela de búfala. Finalizada com pasta de alho santa massa, azeitonas pretas fatiadas e orégano."
+ },
+ {
+  "code": "Pizza Parma (Broto)",
+  "rate": 91.7,
+  "cat": "Pizzas Broto | 4 fatias",
+  "desc": "Massa autoral Dallago´s, molho pomorodo e muçarela. Finalizada com rúcula fresca, tomate grape, presunto parma, muçarela de búfala fresca, azeitonas pretas fatiadas, orégano e um fio de azeite."
+ },
+ {
+  "code": "Pizza Perugia (Broto)",
+  "rate": 61.7,
+  "cat": "Pizzas Broto | 4 fatias",
+  "desc": "Massa autoral Dallago´s, molho pomorodo, alho-poró, muçarela, pera e gorgonzola. Finalizada com nozes e um fio de mel."
+ },
+ {
+  "code": "Pizza Picanha Cremosa (Broto)",
+  "rate": 61.7,
+  "cat": "Pizzas Broto | 4 fatias",
+  "desc": "Massa autoral Dallago´s, molho pomorodo, muçarela, picanha gratinada e gorgonzola. Finalizada com azeitonas pretas fatiadas e orégano."
+ },
+ {
+  "code": "Pizza Portuguesa (Broto)",
+  "rate": 52.7,
+  "cat": "Pizzas Broto | 4 fatias",
+  "desc": "Massa autoral Dallago´s, molho pomodoro, muçarela, presunto cozido, tomate em cubos, ovos cozidos, ervilha e cebola roxa. Finalizada com azeitonas pretas fatiadas e orégano."
+ },
+ {
+  "code": "Pizza Quatro Queijos (Broto)",
+  "rate": 52.7,
+  "cat": "Pizzas Broto | 4 fatias",
+  "desc": "Massa autoral Dallago´s, leve camada de molho pomorodo, muçarela, parmesão, provolone e gorgonzola. Finalizada com azeitonas pretas fatiadas e orégano."
+ },
+ {
+  "code": "Pizza Tomate Seco & Rúcula (Broto)",
+  "rate": 56.7,
+  "cat": "Pizzas Broto | 4 fatias",
+  "desc": "Massa autoral Dallago´s, molho pomorodo, muçarela. Finalizada com rúcula fresca, tomate seco, muçarela de búfala fresca, azeitonas pretas fatiadas, orégano e um fio de azeite."
+ },
+ {
+  "code": "Pizza Zucchine (Broto)",
+  "rate": 52.7,
+  "cat": "Pizzas Broto | 4 fatias",
+  "desc": ""
+ },
+ {
+  "code": "Pizza Doce Abacachoffe (G)",
+  "rate": 98.7,
+  "cat": "Pizzas Doces Grandes | 8 fatias",
+  "desc": "Massa autoral Dallago´s, base com creme de leite, fina camada de muçarela, abacaxi, doce de leite Nestlè, coco ralado, canela em pó raspas de chocolate branco."
+ },
+ {
+  "code": "Pizza Doce Avelã & Morangos (G)",
+  "rate": 99.9,
+  "cat": "Pizzas Doces Grandes | 8 fatias",
+  "desc": "Massa autoral Dallago´s, creme de leite, leve camada de muçarela. Finalizada com delicioso creme de avelãs e morangos selecionados."
+ },
+ {
+  "code": "Pizza Doce Banana & Canela (G)",
+  "rate": 84.7,
+  "cat": "Pizzas Doces Grandes | 8 fatias",
+  "desc": "Massa autoral Dallago´s, creme de leite, leve camada de muçarela curada, banana fatiada. Finalizada açúcar polvilhado e canela em pó."
+ },
+ {
+  "code": "Pizza Doce Chocolate Branco & Nozes (G)",
+  "rate": 84.7,
+  "cat": "Pizzas Doces Grandes | 8 fatias",
+  "desc": "Massa autoral Dallago´s, creme de leite, leve camada de muçarela, raspas de chocolate branco, nozes picadas e leite condensado."
+ },
+ {
+  "code": "Pizza Doce Pistache (G)",
+  "rate": 109.7,
+  "cat": "Pizzas Doces Grandes | 8 fatias",
+  "desc": "Massa autoral Dallago´s, creme de leite, leve camada de muçareça, o verdadeiro creme de pistache italiano, pistache torrado, Kinder Bueno e um fio de cobertura de chocolate ao leite."
+ },
+ {
+  "code": "Pizza Doce Abacachoffe (M)",
+  "rate": 79.7,
+  "cat": "Pizzas Doces Médias | 6 fatias",
+  "desc": "Massa autoral Dallago´s, base com creme de leite, fina camada de muçarela, abacaxi, doce de leite Nestlè, coco ralado, canela em pó raspas de chocolate branco."
+ },
+ {
+  "code": "Pizza Doce Avelã & Morangos (M)",
+  "rate": 89.9,
+  "cat": "Pizzas Doces Médias | 6 fatias",
+  "desc": "Massa autoral Dallago´s, creme de leite, leve camada de muçarela. Finalizada com delicioso creme de avelãs e morangos selecionados."
+ },
+ {
+  "code": "Pizza Doce Banana & Canela (M)",
+  "rate": 74.7,
+  "cat": "Pizzas Doces Médias | 6 fatias",
+  "desc": "Massa autoral Dallago´s, creme de leite, leve camada de muçarela curada, banana fatiada. Finalizada açúcar polvilhado e canela em pó."
+ },
+ {
+  "code": "Pizza Doce Chocolate Branco & Nozes (M)",
+  "rate": 74.7,
+  "cat": "Pizzas Doces Médias | 6 fatias",
+  "desc": "Massa autoral Dallago´s, creme de leite, leve camada de muçarela, raspas de chocolate branco, nozes picadas e leite condensado."
+ },
+ {
+  "code": "Pizza Doce Pistache (M)",
+  "rate": 96.7,
+  "cat": "Pizzas Doces Médias | 6 fatias",
+  "desc": "Massa autoral Dallago´s, creme de leite, leve camada de muçareça, o verdadeiro creme de pistache italiano, pistache torrado, Kinder Bueno e um fio de cobertura de chocolate ao leite."
+ },
+ {
+  "code": "Pizza Doce Abacachoffe (Broto)",
+  "rate": 55.7,
+  "cat": "Pizzas Doces Broto | 4 fatias",
+  "desc": "Massa autoral Dallago´s, base com creme de leite, fina camada de muçarela, abacaxi, doce de leite Nestlè, coco ralado, canela em pó raspas de chocolate branco."
+ },
+ {
+  "code": "Pizza Doce Avelã & Morangos (Broto)",
+  "rate": 58.7,
+  "cat": "Pizzas Doces Broto | 4 fatias",
+  "desc": "Massa autoral Dallago´s, creme de leite, leve camada de muçarela. Finalizada com delicioso creme de avelãs e morangos selecionados."
+ },
+ {
+  "code": "Pizza Doce Banana & Canela (Broto)",
+  "rate": 48.7,
+  "cat": "Pizzas Doces Broto | 4 fatias",
+  "desc": "Massa autoral Dallago´s, creme de leite, leve camada de muçarela curada, banana fatiada. Finalizada açúcar polvilhado e canela em pó."
+ },
+ {
+  "code": "Pizza Doce Chocolate Branco & Nozes (Broto)",
+  "rate": 48.7,
+  "cat": "Pizzas Doces Broto | 4 fatias",
+  "desc": "Massa autoral Dallago´s, creme de leite, leve camada de muçarela, raspas de chocolate branco, nozes picadas e leite condensado."
+ },
+ {
+  "code": "Pizza Doce Pistache (Broto)",
+  "rate": 61.7,
+  "cat": "Pizzas Doces Broto | 4 fatias",
+  "desc": "Massa autoral Dallago´s, creme de leite, leve camada de muçareça, o verdadeiro creme de pistache italiano, pistache torrado, Kinder Bueno e um fio de cobertura de chocolate ao leite."
+ },
+ {
+  "code": "Borda Nostra com molho pomodoro e creme de queijos",
+  "rate": 38.7,
+  "cat": "Entradinhas",
+  "desc": "Borda Nostra acompanhada do nosso molho pomodoro & creme de queijos"
+ },
+ {
+  "code": "Molho pomodoro",
+  "rate": 10.7,
+  "cat": "Entradinhas",
+  "desc": "Adicional de molho pomodoro 70g"
+ },
+ {
+  "code": "Creme de queijos",
+  "rate": 10.7,
+  "cat": "Entradinhas",
+  "desc": "Adicional de creme de queijos 70g"
+ },
+ {
+  "code": "Rotolina Calabresa",
+  "rate": 43.7,
+  "cat": "Entradinhas",
+  "desc": "Rotolina recheada com muçarela curada, parmesão e linguiça calabresa fatiada. Acompanhada de molho pomodoro artesanal."
+ },
+ {
+  "code": "Rotolina Santa Massa",
+  "rate": 43.7,
+  "cat": "Entradinhas",
+  "desc": "Rotolina recheada com muçarela curada, parmesão e carne seca. Finalizada com pasta de alho Santa Massa, acompanhada do nosso molho pomodoro artesanal."
+ },
+ {
+  "code": "Adicional Pistache",
+  "rate": 17.0,
+  "cat": "Adicionais Pizza Doce",
+  "desc": "Adicional de creme de pistache 50g"
+ },
+ {
+  "code": "Adicional Avelã",
+  "rate": 8.5,
+  "cat": "Adicionais Pizza Doce",
+  "desc": "Adicional de creme de avelã 50g"
+ },
+ {
+  "code": "Adicional Choco Branco",
+  "rate": 10.5,
+  "cat": "Adicionais Pizza Doce",
+  "desc": "Adicional de raspas de chocolate branco 50g"
+ },
+ {
+  "code": "Adicional Morango",
+  "rate": 9.0,
+  "cat": "Adicionais Pizza Doce",
+  "desc": "Adicional de morango 40g"
+ },
+ {
+  "code": "Adicional Nozes",
+  "rate": 12.0,
+  "cat": "Adicionais Pizza Doce",
+  "desc": "Adicional de nozes picadas 30g"
+ }
+]
