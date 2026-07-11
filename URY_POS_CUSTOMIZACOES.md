@@ -75,6 +75,21 @@ Também há divergência de nome de campo entre v15/v16: `kot_naming_series` vs
 
 ---
 
+## 3b. Erro "QZ host is not set" ao pagar/imprimir
+
+O POS imprime conforme `print_type` (definido em `getPosProfile` a partir do POS Profile):
+- `qz_print = 1` → `print_type = "qz"` → exige **QZ Tray** + `qz_host` (impressora térmica
+  física). Sem isso, o POS lança **"QZ host is not set"** ao imprimir no pagamento.
+- impressora de rede configurada → `"network"`.
+- senão → **`"socket"`**: abre uma aba do navegador com o cupom (`/printview`) e imprime pelo
+  navegador — **sem hardware**. Ideal para demo.
+
+**Solução (demo):** deixar `POS Profile.qz_print = 0`. A seed já faz isso. Depois **limpar o
+cache do POS** (botão "Limpar Cache" no header, ou Ctrl+Shift+R) — o profile fica em
+sessionStorage e o `print_type` antigo persiste até limpar.
+
+---
+
 ## 4. Referência rápida — criar pedido de teste + KOT via CLI
 
 Scripts em `scratchpad/` (padrão: escrever `tmp_X.py` em apps/frappe/frappe/, `docker cp`,

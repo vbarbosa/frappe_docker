@@ -334,8 +334,10 @@ def run():
             p.branch = BRANCH
         if "custom_enable_multiple_cashier" in pf_fields:
             p.custom_enable_multiple_cashier = 0
+        # qz_print=0 => print_type "socket" (imprime via navegador, sem impressora
+        # física nem QZ Tray). Evita o erro "QZ host is not set" na demo.
         if "qz_print" in pf_fields:
-            p.qz_print = 1
+            p.qz_print = 0
         p.append("payments", {"mode_of_payment": "Cash", "default": 1})
         p.append("applicable_for_users", {"user": USER})
         if "role_allowed_for_billing" in pf_fields:
