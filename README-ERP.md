@@ -29,7 +29,7 @@ O script `subir-erp.sh`:
 Do seu PC (com Tailscale ligado), no navegador:
 
 ```
-http://100.70.92.116:8080
+http://<IP-DA-VPN-TAILSCALE>:8080
 ```
 
 (Se o IP da VPN tiver mudado, o `subir-erp.sh` imprime a URL correta ao final.)
