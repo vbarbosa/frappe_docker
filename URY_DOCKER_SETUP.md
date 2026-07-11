@@ -260,6 +260,8 @@ docker compose -f pwd.yml -f ury.override.yml up -d --force-recreate
 | `localhost:8080` recusa | porta presa no IP Tailscale | bind duplo (seção 4) ou usar o IP Tailscale |
 | `create-site`: "Site already exists" | volume velho persistiu | `down -v` com AMBOS os `-f` |
 | imagem só com `frappe` | apps.json ignorado | usar `--secret`, não `--build-arg` |
+| página "feia"/sem CSS, HTML pede hashes que dão 404 | rodou `bench build` DENTRO do container → grava mapa de assets novo no Redis, mas os arquivos servidos são os da imagem | **nunca rode `bench build` em runtime** (assets só via rebuild da imagem). Corrigir: `docker compose ... exec redis-cache redis-cli FLUSHALL` |
+| 502 após restart do backend | nginx do frontend cacheia o IP antigo do backend | `docker compose ... restart frontend` |
 
 ---
 
