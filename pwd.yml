@@ -1,3 +1,9 @@
+# ==========================================================================
+# A porta 8080 (frontend) usa ${TS_IP} = IP da VPN Tailscale, resolvido na
+# subida. NÃO suba com `docker compose up` puro (a variável ficaria vazia).
+# Suba SEMPRE com:   sudo bash subir-erp.sh
+# Documentação:      README-ERP.md
+# ==========================================================================
 services:
   backend:
     image: frappe/erpnext:v16.26.2
@@ -124,7 +130,7 @@ services:
       - sites:/home/frappe/frappe-bench/sites
       - logs:/home/frappe/frappe-bench/logs
     ports:
-      - "8080:8080"
+      - "${TS_IP}:8080:8080"
 
   queue-long:
     image: frappe/erpnext:v16.26.2
