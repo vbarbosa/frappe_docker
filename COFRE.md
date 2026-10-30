@@ -1,11 +1,8 @@
-# Segredos no cofre (OCI Vault)
+# Segredos no OCI Vault
 
-Os segredos deste projeto (.env) estão no OCI Vault `bm-streaming-vault` (compartimento `barbosamaria-streaming`, região sa-saopaulo-1), com nome `frappe_docker__<arquivo>__<VARIAVEL>`. O arquivo no disco continua funcionando; o cofre é a cópia de segurança e a fonte para recriá-lo.
+Desde 30/10/2026 os segredos técnicos deste projeto (senhas de banco, chaves, tokens) **vêm do OCI Vault em runtime** e não ficam em `.env` nem na configuração dos containers.
+O mecanismo é comum aos projetos desta VM: `vault-secrets@<projeto>.service` lê o Vault com a identidade da VM (Instance Principal) e grava em `/run/vault-secrets/<projeto>` (tmpfs). Documentação completa: `manchete-stack/infra/vm/vault-secrets/README.md`.
+O `.env` (0600) guarda só configuração e, quando houver, senhas de contas de usuário da aplicação.
 
-Ferramenta e IaC ficam em `~/GitHub/barbosamaria-streaming/infra/vault/`:
-- Enviar mudanças: `python3 cofre.py push`
-- Conferir / recriar arquivos: `python3 cofre.py pull` (`--write` grava os arquivos; sobrescreve os atuais)
-- Projeto novo ou arquivo novo: adicionar linha em `projetos.manifest`
-- Ver na web: Secret Management, compartimento `barbosamaria-streaming`.
-
-Nenhum valor de segredo está neste repositório.
+## Este projeto
+- Parado (sem containers). A senha técnica do banco (`frappe_docker__env__DB_PASSWORD`, compartimento `manchete`) saiu do `.env` e existe só no Vault. `ADMIN_PASSWORD` (conta de usuário) continua no `.env`.
